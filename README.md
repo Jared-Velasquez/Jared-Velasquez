@@ -3,7 +3,6 @@ I am a M.S. CS student studying software systems at UCLA. I am highly interested
 
 ### Currently...
 - 🍃 I am architecting and implementing the backend of [Liwanag](https://github.com/Jared-Velasquez/liwanag-hub), a Tagalog language learning mobile app developed by students at Pilipinos in Engineering and Science (PIES) @ UCLA. I use Java Spring and FastAPI frameworks in an event-driven microservices-style architecture deployed on AWS.
-- 🗓️ I am developing [Leetcode Scheduler](https://github.com/Jared-Velasquez/leetcode-scheduler), a desktop app designed to track Leetcode problem completions and schedule when to practice these problems again according to the SM-2 spaced repetition algorithm.
 - 🇵🇭 I am the project manager for [Kababayan](https://github.com/EthanDao4444/socal-filipinos), a mobile application developed to connect the members of [SoCal Filipinos](https://socalfilipinos.org/). This application originated as a winning project of the SoCal Filipinos track of [Kapwa Codefest](https://kapwacodefest.com/), a virtual hackathon I co-organized along with university students from UofM Dearborn, UCLA, UCI, UCSD, BU, Vanderbilt, Purdue, and Wayne.
 
 ### Contact Me!
